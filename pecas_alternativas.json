@@ -78,5 +78,33 @@
   {
     "peca": "GH82-26420C",
     "alternativa_de": "GH82-26414C"
+  },
+  {
+    "peca": "GH82-36254A",
+    "alternativa_de": "GH82-38078A"
+  },
+  {
+    "peca": "GH96-21463B",
+    "alternativa_de": "GH96-18611B"
+  },
+  {
+    "peca": "GH82-34235A",
+    "alternativa_de": "GH82-31834A"
+  },
+  {
+    "peca": "GH82-31828D",
+    "alternativa_de": "GH82-31827D"
+  },
+  {
+    "peca": "GH82-26420D",
+    "alternativa_de": "GH82-26414D"
+  },
+  {
+    "peca": "GH81-24686A",
+    "alternativa_de": "GH82-31852A"
+  },
+  {
+    "peca": "GH81-24613A",
+    "alternativa_de": "GH82-31850A"
   }
 ]
