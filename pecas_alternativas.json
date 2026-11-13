@@ -1,5 +1,9 @@
 [
   {
+    "peca": "GH82-25754A",
+    "alternativa_de": "GH82-25524A"
+  },
+  {
     "peca": "GH81-24724A",
     "alternativa_de": "GH82-30558A"
   },
@@ -10,6 +14,10 @@
   {
     "peca": "GH82-33783A",
     "alternativa_de": "GH82-31247A"
+  },
+  {
+    "peca": "GH82-31561A",
+    "alternativa_de": "GH82-31337A"
   },
   {
     "peca": "GH81-24680A",
@@ -42,6 +50,10 @@
   {
     "peca": "GH82-38675A",
     "alternativa_de": "GH82-37816A"
+  },
+  {
+    "peca": "GH82-39267A",
+    "alternativa_de": "GH82-39023A"
   },
   {
     "peca": "GH96-09347A",
